@@ -14,7 +14,8 @@ h1{
 }
 
 h3{
-    font-family: "Montserrat-Bold";
+    font-family: "Montserrat";
+    font-weight: 900;
 }
 
 p{
@@ -43,7 +44,8 @@ p{
 
 .nav-link{
     font-size: 1.2rem;
-    font-family: "Montserrat-Light";
+    font-family: "Montserrat";
+    font-weight: 300;
 }
 
 /* Download buttons */
