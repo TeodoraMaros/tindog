@@ -5,6 +5,7 @@ body{
 #title{
     background-color: #ff4c68;
     color: #fff;
+    overflow: hidden;
 }
 
 h1{
@@ -59,8 +60,10 @@ p{
 
 .title-image{
     width: 60%;
+    position: absolute;
     transform: rotate(25deg);
 }
+
 
 /* Features section */
 
