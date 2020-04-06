@@ -32,7 +32,7 @@ p{
 }
 
 .container-fluid{
-    padding: 3% 15%;
+    padding: 3% 15% 7%;
 }
 
 /* Navigation bar */
@@ -69,6 +69,7 @@ p{
     width: 60%;
     position: absolute;
     transform: rotate(25deg);
+    right: 30%;
 }
 
 
@@ -76,6 +77,9 @@ p{
 
 #features{
     padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+    z-index: 1;
 }
 
 .feature-box{
